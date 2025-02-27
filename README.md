@@ -25,12 +25,7 @@ This repository showcases multiple web development projects built using **HTML, 
 - Supports multiple currencies.
 - User-friendly dropdown selection for currency choice.
 
-### 5️⃣ Music Player 🎵
-- Supports play, pause, next, and previous track functionalities.
-- Features a progress bar to show playback status.
-- Customizable playlist and volume control.
-
-### 6️⃣ To-Do List ✅
+### 5️⃣ To-Do List ✅
 - Enables users to add, edit, and delete tasks.
 - Tasks can be marked as completed.
 - Data is saved in local storage for persistence.
